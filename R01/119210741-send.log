@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-03-15T13:32:13.325-0300</date>
+  <logger>GUSTAVO ARAUJO SANTOS</logger>
+  <level>FINE</level>
+  <message>File 119210741-GUSTAVO ARAUJO SANTOS.zip was received. It was sent by GUSTAVO ARAUJO SANTOS from IP 192.168.1.242 at 15-03-2021 13*32*13</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-03-16T18:45:02.447-0300</date>
+  <logger>GUSTAVO ARAUJO SANTOS</logger>
+  <level>FINE</level>
+  <message>File 119210741-GUSTAVO ARAUJO SANTOS.zip was received. It was sent by GUSTAVO ARAUJO SANTOS from IP 192.168.1.242 at 16-03-2021 18*45*02</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-03-16T18:48:20.278-0300</date>
+  <logger>GUSTAVO ARAUJO SANTOS</logger>
+  <level>FINE</level>
+  <message>File 119210741-GUSTAVO ARAUJO SANTOS.zip was received. It was sent by GUSTAVO ARAUJO SANTOS from IP 192.168.1.242 at 16-03-2021 18*48*20</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-03-18T09:26:12.330-0300</date>
+  <logger>GUSTAVO ARAUJO SANTOS</logger>
+  <level>FINE</level>
+  <message>File 119210741-GUSTAVO ARAUJO SANTOS.zip was received. It was sent by GUSTAVO ARAUJO SANTOS from IP 192.168.1.242 at 18-03-2021 09*26*12</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-03-18T13:37:39.070-0300</date>
+  <logger>GUSTAVO ARAUJO SANTOS</logger>
+  <level>FINE</level>
+  <message>File 119210741-GUSTAVO ARAUJO SANTOS.zip was received. It was sent by GUSTAVO ARAUJO SANTOS from IP 192.168.1.242 at 18-03-2021 13*37*39</message>
+</record>
